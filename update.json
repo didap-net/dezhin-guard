@@ -1,7 +1,12 @@
 {
-  "version": "1.2.0",
-  "download_url": "https://didap.net/updates/secure-admin-lock.zip",
-  "requires": "5.6",
+  "version": "3.5.1",
+  "download_url": "https://cdn.jsdelivr.net/gh/didap-net/dezhin-guard/dezhin-guard.zip",
   "tested": "6.7",
-  "last_updated": "2025-10-25",
+  "requires": "5.0",
+  "last_updated": "2025-10-27",
+  "author": "Didap",
+  "author_homepage": "https://didap.net",
+  "sections": {
+    "description": "افزونه قفل پیشخوان دژین - محافظ امنیتی دوم برای پیشخوان وردپرس شما."
+  }
 }
