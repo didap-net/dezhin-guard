@@ -1,4 +1,7 @@
 {
   "version": "3.5.1",
-  "download_url": "https://cdn.jsdelivr.net/gh/didap-net/dezhin-guard/dezhin-guard.zip"
+  "download_url": "https://cdn.jsdelivr.net/gh/didap-net/dezhin-guard/dezhin-guard.zip",
+  "homepage": "https://didap.net",
+  "description": "افزونه امنیتی قفل پیشخوان وردپرس دژین.",
+  "changelog": "بهبود سرعت و افزایش امنیت ورود مدیر."
 }
