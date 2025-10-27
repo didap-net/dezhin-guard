@@ -1,0 +1,7 @@
+{
+  "version": "1.2.0",
+  "download_url": "https://didap.net/updates/secure-admin-lock.zip",
+  "requires": "5.6",
+  "tested": "6.7",
+  "last_updated": "2025-10-25",
+}
